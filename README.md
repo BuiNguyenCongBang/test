@@ -15,3 +15,4 @@
 <img src="img/startgame1.png" alt="example" style="width:1000px; height:500px;">
 
 
+**Chúc may mắn và hãy thưởng thức trò chơi vui vẻ!**
